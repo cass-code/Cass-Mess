@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Why I am awesome.
+- __Name:__ Nick
+- __Ocupation:__ "Student"
+- __Hobbies:__ Learning software development instead of studying for exams. 
+
+Here is a super cool photo of me doing one of my favorite things, yawning. 
