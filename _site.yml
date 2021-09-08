@@ -10,4 +10,12 @@ navbar:
 output:
   html_document:
     theme: journal
+<<<<<<< Updated upstream
     css: style.css
+=======
+<<<<<<< HEAD
+    css: style.css
+=======
+    css: style.css
+>>>>>>> d29a3aa9941f48e80fa6e6c80957a1e25a33fb79
+>>>>>>> Stashed changes
