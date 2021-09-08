@@ -9,5 +9,5 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: flatly
+    theme: cerulean
     css: style.css
