@@ -1,0 +1,9 @@
+name: "Cass-Mess"
+output_dir: "."
+navbar:
+  title: "Cass Mess"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
